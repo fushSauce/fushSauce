@@ -9,3 +9,5 @@
 
 ### [Timesheet Timesaver](https://github.com/fushSauce/VUWTimesheetTimesaver)
 
+### [TradeEz](https://github.com/fushSauce/TradeEz_Fork)
+
