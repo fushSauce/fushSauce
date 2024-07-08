@@ -11,3 +11,5 @@
 
 ### [TradeEz](https://github.com/fushSauce/TradeEz_Fork)
 
+### [filterIcal](https://github.com/fushSauce/filterIcal)
+
