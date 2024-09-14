@@ -1,5 +1,7 @@
 # Hi! I'm fush
 
+![badge](https://www.codewars.com/users/fushSauce/badges/micro)
+
 ## About Me
 
 - Comp Sci Student w/a healthy dose of imposter syndrome.
