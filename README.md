@@ -1,8 +1,6 @@
-# Hi! I'm fush
 
-## About Me
-
-- Postgrad CS Student, Junior Dev.
+- Distant relative of Bob Sacamano.
+- Program sometimes.
 
 ## Projects
 
